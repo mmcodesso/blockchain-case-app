@@ -51,17 +51,6 @@ The application will start on `http://localhost:5000/`.
 
 To use the application, start by navigating to the `/assignment` route to view the assignment instructions. Then, follow the instructions to interact with the blockchain, add transactions, and audit the blockchain.
 
-## Docker Setup
-
-You can also use Docker to run the application. Build and run the application using the provided Dockerfile:
-
-```bash
-docker build -t blockchain-application .
-docker run -p 5000:5000 blockchain-application
-```
-
-The application will be accessible at `http://localhost:5000/`.
-
 ## Contributing
 
 Contributions are welcome. Please fork the repository and create a pull request with your changes.
