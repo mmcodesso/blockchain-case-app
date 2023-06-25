@@ -1,6 +1,3 @@
-Absolutely! Here's a simple `README.md` template for your project:
-
-```markdown
 # Blockchain Application for Audit Practice
 
 This project is a simple web-based blockchain application created for teaching the principles of blockchain technology to accounting and auditing students.
