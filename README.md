@@ -8,6 +8,8 @@ The application uses Python and Flask for the backend, and HTML/CSS/Javascript f
 
 Students can interact with the application, add transactions to the blockchain, and simulate the audit process by verifying the integrity of the blockchain.
 
+You can access in this link [BlockChain Case Website](https://bit.ly/blockchaincase). Or you can install following the steps bellow.
+
 ## Installation and Setup
 
 Follow these steps to set up the project:
