@@ -43,7 +43,7 @@ Follow these steps to set up the project:
    You can start the application using the Flask command:
 
    ```
-   export FLASK_APP=blockchain.py  # On Windows use `set FLASK_APP=blockchain.py`
+   export FLASK_APP=app.py  # On Windows use `set FLASK_APP=app.py`
    flask run
    ```
 
